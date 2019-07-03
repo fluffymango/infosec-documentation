@@ -15,7 +15,7 @@ Whilst there are a number of high level information security frameworks and mana
 
 I would like to knowledge the Australian Signals Directorate, the United States National Institute of Standards and Technology, and the International Standards Organisation for their leadership and contributions. Whilst in some instances, we have lowered the minimum standards recommended by these organisations, we've taken a pragmatic approach, recognising that many organisations in Western Australia are unlikely to be able to fully comply with some of the standards published by ASD or NIST.
 
-WA Police Force not only encourages agencies and private sector organisations to adopt what consider pragmatic standards and guidelines, but also to actively collaborate by contributing improvements and suggestions.
+WA Police Force not only encourages agencies and private sector organisations to adopt what we consider minimum standards and pragmatic guidelines, but also to actively collaborate by contributing improvements and suggestions.
 
 Mr Hai Tran - Chief Information Security Officer
 
