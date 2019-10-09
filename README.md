@@ -5,17 +5,16 @@
 Information in the digital age is the lifeblood of many organisations, whether they be Government agencies or private sector organisations.   With the constant threat of cyber-attack, cyber security is a challenge for many organisations with limited budgets and staff.  As a law enforcement agency, the Western Australia Police Force is not only responsible for investigating cyber-crime, but also to assist in the prevention of cyber-crime.
 
 The WA Police Force have created a special publication of best practice information security standards and guidelines to:
-* Assist Western Australian government agencies comply with the whole-of-government Digital Security Policy.  
-* Enhance private sector organisations cyber-security programs to prevent cyber-attack and cyber-crime.
+* Enhance organisations' cyber-security programs to prevent cyber-attack and cyber-crime.
 * Protect WA citizens' data.
 
-The WA Police Force hopes that making its Information Security Best Practice Standards and Guidelines available to the private sector and other government agencies, it will assist in them improving cyber-security in Western Australia.
+The WA Police Force hopes that making its Information Security Best Practice Standards and Guidelines available to the public, it will assist in them improving cyber-security.
 
 Whilst there are a number of high level information security frameworks and management systems such as ISO 27001, and the Australian Signals Directorate’s Information Security Manual, these publications are aimed at CIOs & CISOs. We have taken those recommendations and written some best practice standards and guidelines that government agencies and private sector organisations can adopt as their own.
 
 I would like to knowledge the Australian Signals Directorate, the United States National Institute of Standards and Technology, and the International Standards Organisation for their leadership and contributions. Whilst in some instances, we have lowered the minimum standards recommended by these organisations, we've taken a pragmatic approach, recognising that many organisations in Western Australia are unlikely to be able to fully comply with some of the standards published by ASD or NIST.
 
-WA Police Force not only encourages agencies and private sector organisations to adopt what we consider minimum standards and pragmatic guidelines, but also to actively collaborate by contributing improvements and suggestions.
+WA Police Force not only encourages organisations to adopt what we consider minimum standards and pragmatic guidelines, but also to actively collaborate by contributing improvements and suggestions.
 
 Mr Hai Tran - Chief Information Security Officer
 
