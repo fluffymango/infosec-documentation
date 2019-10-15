@@ -12,7 +12,7 @@ The WA Police Force hopes that making its Information Security Best Practice Sta
 
 Whilst there are a number of high level information security frameworks and management systems such as ISO 27001, and the Australian Signals Directorate’s Information Security Manual, these publications are aimed at CIOs & CISOs. We have taken those recommendations and written some best practice standards and guidelines that government agencies and private sector organisations can adopt as their own.
 
-I would like to knowledge the Australian Signals Directorate, the United States National Institute of Standards and Technology, and the International Standards Organisation for their leadership and contributions. Whilst in some instances, we have lowered the minimum standards recommended by these organisations, we've taken a pragmatic approach, recognising that many organisations in Western Australia are unlikely to be able to fully comply with some of the standards published by ASD or NIST.
+I would like to acknowledge the Australian Signals Directorate, the United States National Institute of Standards and Technology, and the International Standards Organisation for their leadership and contributions. Whilst in some instances, we have lowered the minimum standards recommended by these organisations, we've taken a pragmatic approach, recognising that many organisations in Western Australia are unlikely to be able to fully comply with some of the standards published by ASD or NIST.
 
 WA Police Force not only encourages organisations to adopt what we consider minimum standards and pragmatic guidelines, but also to actively collaborate by contributing improvements and suggestions.
 
